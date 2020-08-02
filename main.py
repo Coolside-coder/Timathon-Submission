@@ -1,4 +1,4 @@
 def exponent(e):
   return e**e
 
-print(exponent(32))
+print(exponent(2))
